@@ -50,6 +50,7 @@ else:
 print("---------------------------------------------------------------")
 
 ## Output :
+![image](https://github.com/Supraja0510/Single-server-infinite-capacity---Markov-Model/assets/155217478/5a9b7367-8019-48b5-b9a4-1fa950f893a0)
 
 ## Result :
 
